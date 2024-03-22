@@ -49,21 +49,13 @@ Pour fonctionner, le code nécessite les modules Python suivants
 
 
 ## Requirements
-
-
 Pour commencer assurez vous d’avoir ces librairies : 
 
-
 * Pour manipuler ton dataset : 
-
-
 import pandas as pd
 import numpy as np
 import math
 import networkx as nx
-
-
-
 
 * Pour tout ce qui est visualisation : 
 Il faudra l’installer pour le clustering 
@@ -72,14 +64,10 @@ import matplotlib.pyplot as plt
 
 
 * Méthodes pour représenter les traitement textuels
-
-
 from scipy.sparse import csr_matrix
 from numpy import linalg as LA
 import community  
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 from scipy.sparse import find, csr_matrix
-
-
 from scipy.linalg import norm
