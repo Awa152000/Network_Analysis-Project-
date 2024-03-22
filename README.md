@@ -1,6 +1,6 @@
 # Network_Analysis
 
-Data description : 
+##  Data description : 
 
 
 Le jeu de données a été produit à partir des fichiers de dumps de données liées .rdf du triplestore Persée, disponibles à l'adresse https://data.persee.fr/explorer/demander-un-dump/dumps-collections/
@@ -38,7 +38,7 @@ autres données de localisation/identification : page 308 etc
 
 
 
-Dependencies
+## Dependencies
 Pour fonctionner, le code nécessite les modules Python suivants
 
 
