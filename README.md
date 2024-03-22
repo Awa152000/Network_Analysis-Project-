@@ -48,7 +48,7 @@ Pour fonctionner, le code nécessite les modules Python suivants
 * Scikit-Learn 
 
 
-Requirements
+## Requirements
 
 
 Pour commencer assurez vous d’avoir ces librairies : 
